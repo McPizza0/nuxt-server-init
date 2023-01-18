@@ -1,13 +1,13 @@
 {
   "name": "nuxt-server-init",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "license": "MIT",
   "description": "Pre-run scripts to validate, get or insert config variables to Nuxt 3",
-  "homepage": "",
+  "homepage": "https://github.com/McPizzaIs/nuxt-server-init#readme",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/McPizzaIs/nuxt-server-init"
   },
   "keywords": [
     "nuxt",
