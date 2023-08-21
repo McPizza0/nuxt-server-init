@@ -1,3 +1,4 @@
+Depreciated in favour of the amazing [`nuxt-prepare`](https://github.com/johannschopplich/nuxt-prepare) module by [@johannschopplich](https://github.com/johannschopplich) : https://github.com/johannschopplich/nuxt-prepare
 
 # 🔌 nuxt-server-init
 
